@@ -1,3 +1,7 @@
 [GitHub Documentation](https://docs.github.com/en)
 [Git Documentation](https://git-scm.com/docs)
 [Debugging Git](https://dangitgit.com/en)
+[JavaScript Developer Roadmap](https://roadmap.sh/javascript)
+[JavaScript Documentation](https://www.w3schools.com/js/)
+[JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+[Jest Documentation](https://jestjs.io/docs/getting-started)
