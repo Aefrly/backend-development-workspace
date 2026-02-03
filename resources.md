@@ -5,3 +5,7 @@
 [JavaScript Documentation](https://www.w3schools.com/js/)
 [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 [Jest Documentation](https://jestjs.io/docs/getting-started)
+[JavcaScript Promises](https://www.w3schools.com/js/js_promise.asp)
+[Async/Await](https://www.w3schools.com/js/js_async.asp)
+[File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
+[JavaScript Errors](https://www.w3schools.com/js/js_errors.asp)
