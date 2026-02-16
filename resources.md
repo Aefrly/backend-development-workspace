@@ -9,3 +9,5 @@
 [Async/Await](https://www.w3schools.com/js/js_async.asp)
 [File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
 [JavaScript Errors](https://www.w3schools.com/js/js_errors.asp)
+[Postman Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
+[Express Validator](https://express-validator.github.io/docs/guides/getting-started/)
