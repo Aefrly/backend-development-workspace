@@ -11,3 +11,6 @@
 [JavaScript Errors](https://www.w3schools.com/js/js_errors.asp)
 [Postman Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
 [Express Validator](https://express-validator.github.io/docs/guides/getting-started/)
+[Getting Started with Sequelize](https://sequelize.org/docs/v6/getting-started/)
+[Sequelize Model Basics](https://sequelize.org/docs/v6/core-concepts/model-basics/)
+[Sequelize Model Querying](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)
