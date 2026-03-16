@@ -14,3 +14,6 @@
 [Getting Started with Sequelize](https://sequelize.org/docs/v6/getting-started/)
 [Sequelize Model Basics](https://sequelize.org/docs/v6/core-concepts/model-basics/)
 [Sequelize Model Querying](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)
+[Sequelize Associations](https://sequelize.org/docs/v6/core-concepts/assocs/)
+[NPM bcrypt.js](https://www.npmjs.com/package/bcryptjs)
+[Express Sessions](https://expressjs.com/en/resources/middleware/session.html)
